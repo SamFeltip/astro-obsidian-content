@@ -26,11 +26,7 @@ aliases:
 
 All plugins, key bindings, and the theme can be customized to your liking, but this is what's on by default.
 
-## Philosophy 
-
-1. Plug-and-play Astro blogging experience. 
-2. Emphasis on customization and modularity. 
-3. Visual parity between backend and frontend.
+Test from phone!!
 
 ## Default Settings
 
