@@ -12,10 +12,10 @@
     }
   },
   "siteInfo": {
-    "site": "https://astro-modular.netlify.app",
-    "title": "Astro Modular",
-    "description": "A flexible blog theme designed for Obsidian users.",
-    "author": "David V. Kimball",
+    "site": "blog.samfelton.com",
+    "title": "Astro Obsidian blog",
+    "description": "",
+    "author": "Sam Felton",
     "language": "en",
     "faviconThemeAdaptive": true,
     "defaultOgImageAlt": "Astro Modular logo."
@@ -45,32 +45,24 @@
         "url": "/posts/"
       },
       {
-        "title": "Projects",
-        "url": "/projects/"
-      },
-      {
-        "title": "Docs",
-        "url": "/docs/"
-      },
-      {
-        "title": "About",
-        "url": "/about/"
+        "title": "Notes",
+        "url": "/notes/"
       },
       {
         "title": "GitHub",
-        "url": "https://github.com/davidvkimball/astro-modular"
+        "url": "https://github.com/SamFeltip/astro-obsidian"
       }
     ],
     "social": [
       {
-        "title": "X",
-        "url": "https://x.com/davidvkimball",
-        "icon": "x-twitter"
+        "title": "GitHub",
+        "url": "https://github.com/SamFeltip",
+        "icon": "github"
       },
       {
-        "title": "GitHub",
-        "url": "https://github.com/davidvkimball",
-        "icon": "github"
+        "title": "Website",
+        "url": "https://samfelton.com",
+        "icon": ""
       }
     ]
   },
@@ -157,7 +149,6 @@
   },
   "features": {
     "commandPalette": true,
-    "tableOfContents": true,
     "readingTime": true,
     "linkedMentions": true,
     "linkedMentionsCompact": false,
@@ -169,9 +160,6 @@
     "profilePicture": false,
     "comments": false,
     "featureButton": "mode",
-    "showPostCardCoverImages": "featured-and-posts",
-    "postCardAspectRatio": "og",
-    "customPostCardAspectRatio": "2.5/1",
     "quickActions": {
       "enabled": true,
       "toggleMode": true,
@@ -221,7 +209,7 @@
     }
   },
   "deployment": {
-    "platform": "netlify"
+    "platform": "cloudflare-workers"
   },
   "pluginConfig": {
     "obsidianSettings": {
