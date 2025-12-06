@@ -21,22 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "89d6cfdc4a73f056",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a456e069b8146a8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +172,13 @@
       "astro-modular-settings:Open Astro Modular wizard": false
     }
   },
-  "active": "1f35ca82aa478034",
+  "active": "ee88a66300f11c35",
   "lastOpenFiles": [
+    "special/docs.md",
+    "special/notes.md",
+    "notes/test.md",
+    "notes",
+    "bases/Home.base",
     "posts/Untitled.md",
     "posts/What did types ever do for us?.md",
     "posts/UNIX Philosophy.md",
@@ -205,7 +194,6 @@
     "posts/Engineer - know thy self!.md",
     "posts/Astro Pagefind.md",
     "posts/Astro image optimisation.md",
-    "bases/Home.base",
     "docs",
     "posts/vault-cms-guide.md",
     "pages/attachments/water.png",
