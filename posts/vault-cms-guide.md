@@ -26,6 +26,8 @@ aliases:
 
 All plugins, key bindings, and the theme can be customized to your liking, but this is what's on by default.
 
+Test
+
 ## Default Settings
 
 1. Markdown links are used in favor of wikilinks.
