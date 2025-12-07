@@ -11,24 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "posts/UNIX Philosophy.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "bases/Home.base",
+                "viewName": "Posts"
               },
-              "icon": "lucide-file",
-              "title": "UNIX Philosophy"
+              "icon": "lucide-home",
+              "title": "Home"
             }
           }
         ]
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/UNIX Philosophy.md",
+                "file": "bases/Home.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UNIX Philosophy"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -176,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +187,7 @@
   "lastOpenFiles": [
     "bases/Home.base",
     "posts/UNIX Philosophy.md",
+    "posts/Untitled.md",
     "posts/the iPhone 16e marks a big step in iPhone history.md",
     "posts/RSS feed app.md",
     "posts/What did types ever do for us?.md",
@@ -212,7 +203,6 @@
     "posts/Astro image optimisation.md",
     "posts/sample-folder-based-post/index.md",
     "posts/getting-started.md",
-    "posts/Untitled.md",
     "special/docs.md",
     "special/notes.md",
     "notes/test.md",

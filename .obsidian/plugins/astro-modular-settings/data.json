@@ -12,9 +12,9 @@
     }
   },
   "siteInfo": {
-    "site": "blog.samfelton.com",
-    "title": "Astro Obsidian blog",
-    "description": "",
+    "site": "https://blog.samfelton.com",
+    "title": "Blog",
+    "description": "blog containing some articles I've written and some half-finished notes.",
     "author": "Sam Felton",
     "language": "en",
     "faviconThemeAdaptive": true,
