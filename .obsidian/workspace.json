@@ -11,13 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "bases/Home.base",
-                "viewName": "Posts"
+                "file": "projects/sharrow-vale-directory/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bases/Home.base",
+                "file": "projects/sharrow-vale-directory/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -185,6 +196,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "projects/sharrow-vale-directory/heroImage.B11kwbOx_Z1JHWSW.png",
+    "projects/sharrow-vale-directory/index.md",
+    "projects/vault-cms/index.md",
+    "projects/vault-cms/glacier.png",
+    "projects/sharrow-vale-directory/heroImage.B11kwbOx_Z1JHWSW.webp",
+    "projects/astro-composer.md",
+    "projects/sharrow-vale-directory.md",
+    "projects/index.md",
+    "projects/sharrow-vale-directory/heroImage.B11kwbOx_Z1JHWSW.webp.crdownload",
+    "projects/sharrow-vale-directory",
+    "projects/attachments/rock.png",
     "bases/Home.base",
     "posts/UNIX Philosophy.md",
     "posts/Untitled.md",
@@ -208,9 +230,6 @@
     "notes/test.md",
     "notes",
     "docs",
-    "posts/vault-cms-guide.md",
-    "pages/attachments/water.png",
-    "pages/contact.md",
-    "pages/about.md"
+    "pages/attachments/water.png"
   ]
 }
