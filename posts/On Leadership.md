@@ -1,6 +1,11 @@
 ---
-tags: [article, christianity, talks]
+tags:
+  - article
+  - christianity
+  - talks
 title: On Leadership
+draft: true
+date: 2025-11-17
 ---
 
 # Leadership

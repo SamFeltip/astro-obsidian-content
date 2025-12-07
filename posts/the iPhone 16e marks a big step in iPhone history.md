@@ -1,6 +1,7 @@
 ---
 tags: [article, technology]
 title: The iPhone 16e Marks a Big step in iPhone History
+date: 2025-02-19
 ---
 
 # The iPhone 16e Marks a Big step in iPhone History

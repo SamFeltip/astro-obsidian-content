@@ -1,6 +1,12 @@
 ---
-tags: [article, Astro, JavaScript, sharrowvale, technology/programming]
+tags:
+  - article
+  - Astro
+  - JavaScript
+  - sharrowvale
+  - technology/programming
 title: Astro Image Optimisation
+date: 2025-02-24
 ---
 
 # Astro Image Optimisation

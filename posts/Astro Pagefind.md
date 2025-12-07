@@ -1,6 +1,12 @@
 ---
-tags: [article, Astro, JavaScript, sharrowvale, technology/programming]
+tags:
+  - article
+  - Astro
+  - JavaScript
+  - sharrowvale
+  - technology/programming
 title: Astro Pagefind
+date: 2025-02-23
 ---
 
 # Astro Pagefind

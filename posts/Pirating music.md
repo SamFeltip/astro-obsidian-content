@@ -1,6 +1,7 @@
 ---
 tags: [article, music, technology]
 title: Pirating Music
+date: 2025-02-05
 ---
 
 # Pirating Music

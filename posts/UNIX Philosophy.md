@@ -1,6 +1,7 @@
 ---
 tags: [article, engineering]
 title: UNIX Philosophy
+date: 2025-02-23
 ---
 
 # UNIX Philosophy

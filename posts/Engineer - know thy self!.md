@@ -1,6 +1,7 @@
 ---
 tags: [article, engineering, technology, technology/engineering]
 title: Engineer - Know Thy Self
+date: 2025-02-12
 ---
 
 # Engineer - Know Thy Self

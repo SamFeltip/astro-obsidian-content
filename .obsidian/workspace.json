@@ -1,23 +1,34 @@
 {
   "main": {
-    "id": "06dcafa8ce3d8896",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "5804761c713e1455",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1f35ca82aa478034",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/UNIX Philosophy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "UNIX Philosophy"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bases/Home.base",
+                "file": "posts/UNIX Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for UNIX Philosophy"
             }
           },
           {
@@ -112,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bases/Home.base",
+                "file": "posts/Pirating music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Pirating music"
             }
           },
           {
@@ -141,21 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bases/Home.base",
+                "file": "posts/Pirating music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Pirating music"
+            }
+          },
+          {
+            "id": "47da13fac2d4f100",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +193,14 @@
       "astro-modular-settings:Open Astro Modular wizard": false
     }
   },
-  "active": "ee88a66300f11c35",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "special/docs.md",
-    "special/notes.md",
-    "notes/test.md",
-    "notes",
     "bases/Home.base",
-    "posts/Untitled.md",
-    "posts/What did types ever do for us?.md",
     "posts/UNIX Philosophy.md",
     "posts/the iPhone 16e marks a big step in iPhone history.md",
-    "posts/Tailwind safelists and the quest for typesafe styles.md",
     "posts/RSS feed app.md",
+    "posts/What did types ever do for us?.md",
+    "posts/Tailwind safelists and the quest for typesafe styles.md",
     "posts/Publishing notes as a blog.md",
     "posts/Pirating music.md",
     "posts/On Leadership.md",
@@ -194,6 +210,13 @@
     "posts/Engineer - know thy self!.md",
     "posts/Astro Pagefind.md",
     "posts/Astro image optimisation.md",
+    "posts/sample-folder-based-post/index.md",
+    "posts/getting-started.md",
+    "posts/Untitled.md",
+    "special/docs.md",
+    "special/notes.md",
+    "notes/test.md",
+    "notes",
     "docs",
     "posts/vault-cms-guide.md",
     "pages/attachments/water.png",

@@ -1,6 +1,8 @@
 ---
 tags: [article, Astro, blog]
 title: Publishing Notes as a Blog
+draft: true
+date: 2025-02-24
 ---
 
 # Publishing Notes as a Blog

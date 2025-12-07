@@ -1,6 +1,10 @@
 ---
-tags: [article, christianity]
+tags:
+  - article
+  - christianity
 title: My place in Church
+draft: true
+date: 2025-12-26
 ---
 
 # My place in Church

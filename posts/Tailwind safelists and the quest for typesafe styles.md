@@ -1,6 +1,7 @@
 ---
 tags: [article, frontend, style-systems, tailwind, technology/programming]
 title: Tailwind Safelists and the quest for Typesafe Styles
+date: 2025-02-11
 ---
 
 # Tailwind Safelists and the quest for Typesafe Styles

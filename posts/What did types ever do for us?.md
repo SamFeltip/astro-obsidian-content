@@ -1,6 +1,7 @@
 ---
 tags: [article, ruby, technology/programming]
 title: What Did Types Ever Do for Us?
+date: 2025-02-25
 ---
 
 # What Did Types Ever Do for Us?

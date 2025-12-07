@@ -1,6 +1,7 @@
 ---
 tags: [article, engineering]
 title: Lessons Learned from My Dissertation
+date: 2025-03-05
 ---
 
 # Lessons Learned from My Dissertation

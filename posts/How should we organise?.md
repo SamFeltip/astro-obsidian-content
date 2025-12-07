@@ -1,6 +1,7 @@
 ---
 tags: [article]
 title: How Should We Organise?
+date: 2025-02-13
 ---
 
 # How Should We Organise?
